@@ -1,3 +1,3 @@
 Hi.
 
-<a href="https://steamcommunity.com/id/kimds5344/">Steam Profile</a>
+[Steam Profile](https://steamcommunity.com/id/kimds5344/, "Steam Profile")
