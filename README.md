@@ -1,4 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimPopsong&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimPopsong&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimPopsong&theme=dark" />
+</a>
 
 [Steam Profile](https://steamcommunity.com/id/kimds5344/, "Steam Profile")  
 [BAEKJOON Profile](https://www.acmicpc.net/user/kimds5344)  
