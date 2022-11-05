@@ -7,7 +7,5 @@
 </a>
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimds5344)](https://solved.ac/kimds5344)
-
 <!-- [Steam Profile](https://steamcommunity.com/id/kimds5344/, "Steam Profile") MD 링크 사용법 -->
 <!-- Markdown에서 줄바꿈은 끝에 띄어쓰기 두 번 -->
