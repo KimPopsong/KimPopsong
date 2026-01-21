@@ -20,5 +20,6 @@
 <!-- Links -->
 [![Blog](https://img.shields.io/badge/Blog-222222?style=flat&logo=google-chrome&logoColor=white)](https://dskim.dev)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam)](https://steamcommunity.com/id/kimds5344/)
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kimds5344/)
 
 </div>
